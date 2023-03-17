@@ -15,10 +15,10 @@
 
 4) Finally, manually draw the PCB layout for the circuit.
 
-### CIRCUIT DIAGRAM
 
+# CIRCUIT DIAGRAM
+##![225827042-6ed2094f-386d-46c5-9647-a516f06bca77](https://user-images.githubusercontent.com/69795479/225827434-4912a3dd-23af-489a-b7ac-a7ca2caf0ba8.png)
 
-![image](https://user-images.githubusercontent.com/69795479/225827042-6ed2094f-386d-46c5-9647-a516f06bca77.png)
 
 ### SIMULATION OUTPUT
 ![manualpcb_page-0001 2086](https://user-images.githubusercontent.com/69795479/225825968-6b28bba6-01b9-42c9-b9a7-9b7d785dfe10.jpg)
