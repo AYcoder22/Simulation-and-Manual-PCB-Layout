@@ -1,11 +1,13 @@
 # Simulation and Manual PCB Layout
 
-### AIM
+AIM
+To create a schematic, simulate, and manually layout the PCB for a simple circuit.
 
-### PROBLEM STATEMENT
+PROBLEM STATEMENT
+Design a circuit of your choice in any simulation software. Upon successful simulation, draw the PCB layout of the designed circuit.
 
-### EQUIPMENTS REQUIRED
-
+EQUIPMENTS REQUIRED
+Proteus 8 Professional
 ### STEPS
 1) Choose the desired components for your design.
 
@@ -28,3 +30,4 @@
 
 
 ### RESULT
+Thus, we have successfully simulated a PCB Design and drawn the layout manually.
