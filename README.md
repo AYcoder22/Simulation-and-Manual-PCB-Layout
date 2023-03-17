@@ -16,5 +16,7 @@
 ### SIMULATION OUTPUT
 
 ### MANUAL PCB LAYOUT (Scanned Image)
+![WhatsApp Image 2023-03-17 at 11 37 15](https://user-images.githubusercontent.com/69795479/225826147-7ce0a03c-99f4-4ee8-885d-a3cf6983090d.jpg)
+
 
 ### RESULT
